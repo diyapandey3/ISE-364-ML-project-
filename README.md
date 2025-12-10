@@ -39,3 +39,8 @@ The project uses publicly available data from:
 
 ## 🚀 How to Run the Project
    git clone the project and submit pull request to make suggestions for our code. 
+   
+**Authors**
+- Diya Pandey
+- Victoria Swider 
+  
