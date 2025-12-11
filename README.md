@@ -31,7 +31,7 @@ The project uses publicly available data from:
 - Data cleaning & preprocessing  
 - Feature engineering  
 - Train-test split & cross-validation  
-- Logistic Regression, Random Forests, XGBoost, and more  
+- Logistic Regression, Random Forests, and more  
 - Model evaluation & comparison  
 
 ---
